@@ -1,0 +1,2 @@
+# Servlet_Config_Interface
+ServletConfig Interface  An object of ServletConfig is created by the web container for each servlet.  This object can be used to get configuration information from web.xml file.  If the configuration information is modified from the web.xml file, we don't need to change the servlet. So it is easier to manage the web application if any specific content is modified from time to time.
